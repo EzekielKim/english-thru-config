@@ -10,7 +10,7 @@
 
 ## 공개 전 확인
 
-- 지원 이메일은 운영자가 제공한 `msdos25@gmail.com`이며, 시행일은 2026-09-21입니다. 삭제 요청 접수 시 예상 처리 일정을 회신하고, 본인 확인 후 지체 없이 처리합니다. 고정 일수는 임의로 약속하지 않습니다.
+- 지원 이메일은 운영자가 제공한 `ezekieldevstudio@gmail.com`이며, 시행일은 2026-09-21입니다. 삭제 요청 접수 시 예상 처리 일정을 회신하고, 본인 확인 후 지체 없이 처리합니다. 고정 일수는 임의로 약속하지 않습니다.
 - Supabase Dashboard에서 실제 `profiles` 필드, 트리거, 사용자 연결 테이블과 백업·로그 보관 정책을 확인합니다. 앱 코드에서는 profiles 직접 조회/저장 및 course_progress 서버 동기화를 사용하지 않습니다. 실제 서버 설정에 따른 추가 처리 항목과 해외 이전 안내가 필요한 경우 정책에 반영합니다.
 - 이메일 수신 및 본인 확인 후 삭제 처리를 수행할 운영자가 필요합니다. 단순히 이 사이트를 게시해도 자동 삭제 기능이 생기지 않습니다.
 
@@ -25,9 +25,9 @@ Repository Settings → Pages → Build and deployment:
 
 예상 URL (실제 배포 성공 여부는 별도 확인):
 
-- https://ezekielkim.github.io/english-thru-config/
-- https://ezekielkim.github.io/english-thru-config/privacy.html
-- https://ezekielkim.github.io/english-thru-config/delete-account.html
+- https://ezekieldevstudio.github.io/english-thru-config/
+- https://ezekieldevstudio.github.io/english-thru-config/privacy.html
+- https://ezekieldevstudio.github.io/english-thru-config/delete-account.html
 
 ## 계정 삭제 운영 절차
 
